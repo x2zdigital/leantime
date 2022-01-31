@@ -1,0 +1,515 @@
+[31-Jan-2022 00:50:33 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 00:50:33 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 00:50:42 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 00:50:42 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 00:50:42 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 00:50:42 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 00:50:43 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 00:50:43 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 00:50:43 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 00:50:43 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:16:19 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:16:19 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:16:19 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:16:19 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:16:19 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:16:19 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:16:20 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:16:20 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:22:53 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:22:53 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:22:53 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 307
+[31-Jan-2022 01:22:53 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:22:53 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:22:53 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 307
+[31-Jan-2022 01:22:53 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 307
+[31-Jan-2022 01:22:53 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 307
+[31-Jan-2022 01:22:59 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:22:59 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:22:59 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 307
+[31-Jan-2022 01:22:59 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 307
+[31-Jan-2022 01:22:59 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 307
+[31-Jan-2022 01:23:04 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:23:04 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:23:04 America/Los_Angeles] PHP Notice:  Undefined index: admin in D:\WEB\leantime\src\core\class.login.php on line 307
+[31-Jan-2022 01:23:04 America/Los_Angeles] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in D:\WEB\leantime\src\core\class.login.php:436
+Stack trace:
+#0 D:\WEB\leantime\src\core\class.login.php(436): PDOStatement->execute()
+#1 D:\WEB\leantime\src\core\class.login.php(174): leantime\core\login->checkSessions()
+#2 D:\WEB\leantime\src\core\class.login.php(246): leantime\core\login->__construct('6c254b08b2fedd5...')
+#3 D:\WEB\leantime\public\index.php(20): leantime\core\login::getInstance('6c254b08b2fedd5...')
+#4 {main}
+  thrown in D:\WEB\leantime\src\core\class.login.php on line 436
+[31-Jan-2022 01:23:39 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:23:39 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:23:39 America/Los_Angeles] PHP Notice:  Undefined index: admin in D:\WEB\leantime\src\core\class.login.php on line 309
+[31-Jan-2022 01:23:39 America/Los_Angeles] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in D:\WEB\leantime\src\core\class.login.php:438
+Stack trace:
+#0 D:\WEB\leantime\src\core\class.login.php(438): PDOStatement->execute()
+#1 D:\WEB\leantime\src\core\class.login.php(174): leantime\core\login->checkSessions()
+#2 D:\WEB\leantime\src\core\class.login.php(246): leantime\core\login->__construct('b80f7caee0c49e6...')
+#3 D:\WEB\leantime\public\index.php(20): leantime\core\login::getInstance('b80f7caee0c49e6...')
+#4 {main}
+  thrown in D:\WEB\leantime\src\core\class.login.php on line 438
+[31-Jan-2022 01:24:14 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:24:14 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:24:14 America/Los_Angeles] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in D:\WEB\leantime\src\core\class.login.php:438
+Stack trace:
+#0 D:\WEB\leantime\src\core\class.login.php(438): PDOStatement->execute()
+#1 D:\WEB\leantime\src\core\class.login.php(174): leantime\core\login->checkSessions()
+#2 D:\WEB\leantime\src\core\class.login.php(246): leantime\core\login->__construct('df420e9a89c4015...')
+#3 D:\WEB\leantime\public\index.php(20): leantime\core\login::getInstance('df420e9a89c4015...')
+#4 {main}
+  thrown in D:\WEB\leantime\src\core\class.login.php on line 438
+[31-Jan-2022 01:24:16 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:24:16 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:24:16 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 309
+[31-Jan-2022 01:24:16 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 309
+[31-Jan-2022 01:24:16 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 309
+[31-Jan-2022 01:24:16 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:24:16 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:24:16 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 309
+[31-Jan-2022 01:24:16 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 309
+[31-Jan-2022 01:24:16 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 309
+[31-Jan-2022 01:24:16 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 309
+[31-Jan-2022 01:24:25 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:24:25 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:24:25 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:24:25 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:24:25 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:24:31 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:24:31 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:24:31 America/Los_Angeles] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in D:\WEB\leantime\src\core\class.login.php:437
+Stack trace:
+#0 D:\WEB\leantime\src\core\class.login.php(437): PDOStatement->execute()
+#1 D:\WEB\leantime\src\core\class.login.php(174): leantime\core\login->checkSessions()
+#2 D:\WEB\leantime\src\core\class.login.php(246): leantime\core\login->__construct('a18a5c85b5e77dc...')
+#3 D:\WEB\leantime\public\index.php(20): leantime\core\login::getInstance('a18a5c85b5e77dc...')
+#4 {main}
+  thrown in D:\WEB\leantime\src\core\class.login.php on line 437
+[31-Jan-2022 01:24:35 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:24:35 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:24:36 America/Los_Angeles] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in D:\WEB\leantime\src\core\class.login.php:437
+Stack trace:
+#0 D:\WEB\leantime\src\core\class.login.php(437): PDOStatement->execute()
+#1 D:\WEB\leantime\src\core\class.login.php(174): leantime\core\login->checkSessions()
+#2 D:\WEB\leantime\src\core\class.login.php(246): leantime\core\login->__construct('a18a5c85b5e77dc...')
+#3 D:\WEB\leantime\public\index.php(20): leantime\core\login::getInstance('a18a5c85b5e77dc...')
+#4 {main}
+  thrown in D:\WEB\leantime\src\core\class.login.php on line 437
+[31-Jan-2022 01:24:37 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:24:37 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:24:37 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:24:37 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:24:37 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:24:37 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:24:37 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:24:37 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:24:37 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:24:37 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:24:37 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:24:42 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:24:42 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:24:42 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:24:42 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:24:42 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:24:42 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:24:43 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:24:43 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:24:59 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:24:59 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:24:59 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:24:59 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:24:59 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:25:06 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:25:06 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:25:06 America/Los_Angeles] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in D:\WEB\leantime\src\core\class.login.php:438
+Stack trace:
+#0 D:\WEB\leantime\src\core\class.login.php(438): PDOStatement->execute()
+#1 D:\WEB\leantime\src\core\class.login.php(174): leantime\core\login->checkSessions()
+#2 D:\WEB\leantime\src\core\class.login.php(246): leantime\core\login->__construct('6c9c2bdc733eeb5...')
+#3 D:\WEB\leantime\public\index.php(20): leantime\core\login::getInstance('6c9c2bdc733eeb5...')
+#4 {main}
+  thrown in D:\WEB\leantime\src\core\class.login.php on line 438
+[31-Jan-2022 01:25:23 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:25:23 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:25:23 America/Los_Angeles] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in D:\WEB\leantime\src\core\class.login.php:437
+Stack trace:
+#0 D:\WEB\leantime\src\core\class.login.php(437): PDOStatement->execute()
+#1 D:\WEB\leantime\src\core\class.login.php(174): leantime\core\login->checkSessions()
+#2 D:\WEB\leantime\src\core\class.login.php(246): leantime\core\login->__construct('6c9c2bdc733eeb5...')
+#3 D:\WEB\leantime\public\index.php(20): leantime\core\login::getInstance('6c9c2bdc733eeb5...')
+#4 {main}
+  thrown in D:\WEB\leantime\src\core\class.login.php on line 437
+[31-Jan-2022 01:25:27 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:25:27 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:25:27 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:25:27 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:25:27 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:25:27 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:25:27 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:25:27 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:25:27 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:25:27 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:25:27 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:25:29 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:25:29 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:25:29 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:25:29 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:25:29 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:25:29 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:25:29 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:25:29 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:25:30 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:25:30 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:25:30 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:25:31 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:25:31 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:25:35 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:25:35 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:25:35 America/Los_Angeles] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in D:\WEB\leantime\src\core\class.login.php:437
+Stack trace:
+#0 D:\WEB\leantime\src\core\class.login.php(437): PDOStatement->execute()
+#1 D:\WEB\leantime\src\core\class.login.php(174): leantime\core\login->checkSessions()
+#2 D:\WEB\leantime\src\core\class.login.php(246): leantime\core\login->__construct('471ada53395ab04...')
+#3 D:\WEB\leantime\public\index.php(20): leantime\core\login::getInstance('471ada53395ab04...')
+#4 {main}
+  thrown in D:\WEB\leantime\src\core\class.login.php on line 437
+[31-Jan-2022 01:25:53 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:25:53 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:25:53 America/Los_Angeles] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in D:\WEB\leantime\src\core\class.login.php:439
+Stack trace:
+#0 D:\WEB\leantime\src\core\class.login.php(439): PDOStatement->execute()
+#1 D:\WEB\leantime\src\core\class.login.php(174): leantime\core\login->checkSessions()
+#2 D:\WEB\leantime\src\core\class.login.php(246): leantime\core\login->__construct('471ada53395ab04...')
+#3 D:\WEB\leantime\public\index.php(20): leantime\core\login::getInstance('471ada53395ab04...')
+#4 {main}
+  thrown in D:\WEB\leantime\src\core\class.login.php on line 439
+[31-Jan-2022 01:25:56 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:25:56 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:25:56 America/Los_Angeles] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in D:\WEB\leantime\src\core\class.login.php:439
+Stack trace:
+#0 D:\WEB\leantime\src\core\class.login.php(439): PDOStatement->execute()
+#1 D:\WEB\leantime\src\core\class.login.php(174): leantime\core\login->checkSessions()
+#2 D:\WEB\leantime\src\core\class.login.php(246): leantime\core\login->__construct('471ada53395ab04...')
+#3 D:\WEB\leantime\public\index.php(20): leantime\core\login::getInstance('471ada53395ab04...')
+#4 {main}
+  thrown in D:\WEB\leantime\src\core\class.login.php on line 439
+[31-Jan-2022 01:25:59 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:25:59 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:25:59 America/Los_Angeles] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in D:\WEB\leantime\src\core\class.login.php:439
+Stack trace:
+#0 D:\WEB\leantime\src\core\class.login.php(439): PDOStatement->execute()
+#1 D:\WEB\leantime\src\core\class.login.php(174): leantime\core\login->checkSessions()
+#2 D:\WEB\leantime\src\core\class.login.php(246): leantime\core\login->__construct('471ada53395ab04...')
+#3 D:\WEB\leantime\public\index.php(20): leantime\core\login::getInstance('471ada53395ab04...')
+#4 {main}
+  thrown in D:\WEB\leantime\src\core\class.login.php on line 439
+[31-Jan-2022 01:26:02 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:26:02 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:26:02 America/Los_Angeles] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in D:\WEB\leantime\src\core\class.login.php:439
+Stack trace:
+#0 D:\WEB\leantime\src\core\class.login.php(439): PDOStatement->execute()
+#1 D:\WEB\leantime\src\core\class.login.php(174): leantime\core\login->checkSessions()
+#2 D:\WEB\leantime\src\core\class.login.php(246): leantime\core\login->__construct('471ada53395ab04...')
+#3 D:\WEB\leantime\public\index.php(20): leantime\core\login::getInstance('471ada53395ab04...')
+#4 {main}
+  thrown in D:\WEB\leantime\src\core\class.login.php on line 439
+[31-Jan-2022 01:26:26 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:26:26 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:26:26 America/Los_Angeles] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in D:\WEB\leantime\src\core\class.login.php:442
+Stack trace:
+#0 D:\WEB\leantime\src\core\class.login.php(442): PDOStatement->execute()
+#1 D:\WEB\leantime\src\core\class.login.php(174): leantime\core\login->checkSessions()
+#2 D:\WEB\leantime\src\core\class.login.php(246): leantime\core\login->__construct('471ada53395ab04...')
+#3 D:\WEB\leantime\public\index.php(20): leantime\core\login::getInstance('471ada53395ab04...')
+#4 {main}
+  thrown in D:\WEB\leantime\src\core\class.login.php on line 442
+[31-Jan-2022 01:26:28 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:26:28 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:26:28 America/Los_Angeles] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in D:\WEB\leantime\src\core\class.login.php:442
+Stack trace:
+#0 D:\WEB\leantime\src\core\class.login.php(442): PDOStatement->execute()
+#1 D:\WEB\leantime\src\core\class.login.php(174): leantime\core\login->checkSessions()
+#2 D:\WEB\leantime\src\core\class.login.php(246): leantime\core\login->__construct('471ada53395ab04...')
+#3 D:\WEB\leantime\public\index.php(20): leantime\core\login::getInstance('471ada53395ab04...')
+#4 {main}
+  thrown in D:\WEB\leantime\src\core\class.login.php on line 442
+[31-Jan-2022 01:26:35 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:26:35 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:26:35 America/Los_Angeles] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in D:\WEB\leantime\src\core\class.login.php:441
+Stack trace:
+#0 D:\WEB\leantime\src\core\class.login.php(441): PDOStatement->execute()
+#1 D:\WEB\leantime\src\core\class.login.php(174): leantime\core\login->checkSessions()
+#2 D:\WEB\leantime\src\core\class.login.php(246): leantime\core\login->__construct('471ada53395ab04...')
+#3 D:\WEB\leantime\public\index.php(20): leantime\core\login::getInstance('471ada53395ab04...')
+#4 {main}
+  thrown in D:\WEB\leantime\src\core\class.login.php on line 441
+[31-Jan-2022 01:26:37 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:26:37 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:26:37 America/Los_Angeles] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in D:\WEB\leantime\src\core\class.login.php:441
+Stack trace:
+#0 D:\WEB\leantime\src\core\class.login.php(441): PDOStatement->execute()
+#1 D:\WEB\leantime\src\core\class.login.php(174): leantime\core\login->checkSessions()
+#2 D:\WEB\leantime\src\core\class.login.php(246): leantime\core\login->__construct('471ada53395ab04...')
+#3 D:\WEB\leantime\public\index.php(20): leantime\core\login::getInstance('471ada53395ab04...')
+#4 {main}
+  thrown in D:\WEB\leantime\src\core\class.login.php on line 441
+[31-Jan-2022 01:26:48 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:26:48 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:26:49 America/Los_Angeles] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in D:\WEB\leantime\src\core\class.login.php:438
+Stack trace:
+#0 D:\WEB\leantime\src\core\class.login.php(438): PDOStatement->execute()
+#1 D:\WEB\leantime\src\core\class.login.php(174): leantime\core\login->checkSessions()
+#2 D:\WEB\leantime\src\core\class.login.php(246): leantime\core\login->__construct('471ada53395ab04...')
+#3 D:\WEB\leantime\public\index.php(20): leantime\core\login::getInstance('471ada53395ab04...')
+#4 {main}
+  thrown in D:\WEB\leantime\src\core\class.login.php on line 438
+[31-Jan-2022 01:26:51 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:26:51 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:26:51 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:26:51 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:26:51 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:26:51 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:26:51 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:26:51 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:26:51 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:26:51 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:26:51 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:26:53 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:26:53 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:26:53 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:26:53 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:26:53 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:26:53 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:26:53 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:26:53 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 308
+[31-Jan-2022 01:26:58 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:26:58 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:26:59 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:26:59 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:27:03 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:27:03 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:27:03 America/Los_Angeles] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in D:\WEB\leantime\src\core\class.login.php:441
+Stack trace:
+#0 D:\WEB\leantime\src\core\class.login.php(441): PDOStatement->execute()
+#1 D:\WEB\leantime\src\core\class.login.php(174): leantime\core\login->checkSessions()
+#2 D:\WEB\leantime\src\core\class.login.php(246): leantime\core\login->__construct('b03056810d629a3...')
+#3 D:\WEB\leantime\public\index.php(20): leantime\core\login::getInstance('b03056810d629a3...')
+#4 {main}
+  thrown in D:\WEB\leantime\src\core\class.login.php on line 441
+[31-Jan-2022 01:27:05 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:27:05 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:27:06 America/Los_Angeles] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in D:\WEB\leantime\src\core\class.login.php:441
+Stack trace:
+#0 D:\WEB\leantime\src\core\class.login.php(441): PDOStatement->execute()
+#1 D:\WEB\leantime\src\core\class.login.php(174): leantime\core\login->checkSessions()
+#2 D:\WEB\leantime\src\core\class.login.php(246): leantime\core\login->__construct('b03056810d629a3...')
+#3 D:\WEB\leantime\public\index.php(20): leantime\core\login::getInstance('b03056810d629a3...')
+#4 {main}
+  thrown in D:\WEB\leantime\src\core\class.login.php on line 441
+[31-Jan-2022 01:27:08 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:27:08 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:27:09 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:27:09 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:27:09 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:27:09 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:27:14 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:27:14 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:27:14 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:27:14 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:28:47 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:28:47 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:28:51 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:28:51 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:28:51 America/Los_Angeles] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in D:\WEB\leantime\src\core\class.login.php:445
+Stack trace:
+#0 D:\WEB\leantime\src\core\class.login.php(445): PDOStatement->execute()
+#1 D:\WEB\leantime\src\core\class.login.php(178): leantime\core\login->checkSessions()
+#2 D:\WEB\leantime\src\core\class.login.php(250): leantime\core\login->__construct('b03056810d629a3...')
+#3 D:\WEB\leantime\public\index.php(20): leantime\core\login::getInstance('b03056810d629a3...')
+#4 {main}
+  thrown in D:\WEB\leantime\src\core\class.login.php on line 445
+[31-Jan-2022 01:30:13 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:30:13 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:30:13 America/Los_Angeles] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in D:\WEB\leantime\src\core\class.login.php:442
+Stack trace:
+#0 D:\WEB\leantime\src\core\class.login.php(442): PDOStatement->execute()
+#1 D:\WEB\leantime\src\core\class.login.php(178): leantime\core\login->checkSessions()
+#2 D:\WEB\leantime\src\core\class.login.php(250): leantime\core\login->__construct('b03056810d629a3...')
+#3 D:\WEB\leantime\public\index.php(20): leantime\core\login::getInstance('b03056810d629a3...')
+#4 {main}
+  thrown in D:\WEB\leantime\src\core\class.login.php on line 442
+[31-Jan-2022 01:30:15 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:30:15 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:30:15 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:30:15 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:30:16 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:30:16 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:30:18 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:30:18 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:30:18 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:30:18 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:30:23 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:30:23 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:30:30 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:30:30 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:30:30 America/Los_Angeles] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 in D:\WEB\leantime\src\core\class.login.php:442
+Stack trace:
+#0 D:\WEB\leantime\src\core\class.login.php(442): PDOStatement->execute()
+#1 D:\WEB\leantime\src\core\class.login.php(178): leantime\core\login->checkSessions()
+#2 D:\WEB\leantime\src\core\class.login.php(250): leantime\core\login->__construct('b03056810d629a3...')
+#3 D:\WEB\leantime\public\index.php(20): leantime\core\login::getInstance('b03056810d629a3...')
+#4 {main}
+  thrown in D:\WEB\leantime\src\core\class.login.php on line 442
+[31-Jan-2022 01:31:24 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:31:24 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:31:24 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:31:24 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:31:25 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:31:25 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:32:14 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:32:14 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:32:14 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 312
+[31-Jan-2022 01:32:14 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 312
+[31-Jan-2022 01:32:14 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 312
+[31-Jan-2022 01:32:14 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:32:14 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:32:14 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 312
+[31-Jan-2022 01:32:14 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 312
+[31-Jan-2022 01:32:14 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 312
+[31-Jan-2022 01:32:14 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 312
+[31-Jan-2022 01:34:39 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:34:39 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:34:39 America/Los_Angeles] PHP Notice:  Array to string conversion in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:34:39 America/Los_Angeles] PHP Notice:  Undefined variable: Array in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:34:39 America/Los_Angeles] PHP Notice:  Trying to access array offset on value of type null in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:34:39 America/Los_Angeles] PHP Notice:  Trying to access array offset on value of type null in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:34:39 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 313
+[31-Jan-2022 01:34:39 America/Los_Angeles] PHP Notice:  Array to string conversion in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:34:39 America/Los_Angeles] PHP Notice:  Undefined variable: Array in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:34:39 America/Los_Angeles] PHP Notice:  Trying to access array offset on value of type null in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:34:39 America/Los_Angeles] PHP Notice:  Trying to access array offset on value of type null in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:34:39 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 313
+[31-Jan-2022 01:34:39 America/Los_Angeles] PHP Notice:  Array to string conversion in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:34:39 America/Los_Angeles] PHP Notice:  Undefined variable: Array in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:34:39 America/Los_Angeles] PHP Notice:  Trying to access array offset on value of type null in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:34:39 America/Los_Angeles] PHP Notice:  Trying to access array offset on value of type null in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:34:39 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 313
+[31-Jan-2022 01:34:50 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:34:50 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:34:50 America/Los_Angeles] PHP Notice:  Undefined index: userdata in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:34:50 America/Los_Angeles] PHP Notice:  Trying to access array offset on value of type null in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:34:50 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 313
+[31-Jan-2022 01:34:50 America/Los_Angeles] PHP Notice:  Undefined index: userdata in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:34:50 America/Los_Angeles] PHP Notice:  Trying to access array offset on value of type null in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:34:50 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 313
+[31-Jan-2022 01:34:50 America/Los_Angeles] PHP Notice:  Undefined index: userdata in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:34:50 America/Los_Angeles] PHP Notice:  Trying to access array offset on value of type null in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:34:50 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 313
+[31-Jan-2022 01:35:08 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:35:08 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:35:08 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:35:08 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:35:08 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 313
+[31-Jan-2022 01:35:08 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 313
+[31-Jan-2022 01:35:08 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 313
+[31-Jan-2022 01:35:08 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:35:08 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:35:08 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 313
+[31-Jan-2022 01:35:08 America/Los_Angeles] PHP Notice:  Undefined index: userdata in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:35:08 America/Los_Angeles] PHP Notice:  Trying to access array offset on value of type null in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:35:08 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 313
+[31-Jan-2022 01:35:08 America/Los_Angeles] PHP Notice:  Undefined index: userdata in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:35:08 America/Los_Angeles] PHP Notice:  Trying to access array offset on value of type null in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:35:08 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 313
+[31-Jan-2022 01:35:08 America/Los_Angeles] PHP Notice:  Undefined index: userdata in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:35:08 America/Los_Angeles] PHP Notice:  Trying to access array offset on value of type null in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:35:08 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 313
+[31-Jan-2022 01:36:06 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:36:06 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:36:06 America/Los_Angeles] PHP Notice:  Undefined index: userdata in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:36:06 America/Los_Angeles] PHP Notice:  Trying to access array offset on value of type null in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:36:06 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 313
+[31-Jan-2022 01:36:06 America/Los_Angeles] PHP Notice:  Undefined index: userdata in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:36:06 America/Los_Angeles] PHP Notice:  Trying to access array offset on value of type null in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:36:06 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 313
+[31-Jan-2022 01:36:06 America/Los_Angeles] PHP Notice:  Undefined index: userdata in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:36:06 America/Los_Angeles] PHP Notice:  Trying to access array offset on value of type null in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:36:06 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 313
+[31-Jan-2022 01:36:24 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:36:24 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:36:24 America/Los_Angeles] PHP Notice:  Undefined index: userdata in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:36:24 America/Los_Angeles] PHP Notice:  Trying to access array offset on value of type null in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:36:24 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 313
+[31-Jan-2022 01:36:24 America/Los_Angeles] PHP Notice:  Undefined index: userdata in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:36:24 America/Los_Angeles] PHP Notice:  Trying to access array offset on value of type null in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:36:24 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 313
+[31-Jan-2022 01:36:24 America/Los_Angeles] PHP Notice:  Undefined index: userdata in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:36:24 America/Los_Angeles] PHP Notice:  Trying to access array offset on value of type null in D:\WEB\leantime\src\core\class.login.php on line 311
+[31-Jan-2022 01:36:24 America/Los_Angeles] PHP Notice:  Undefined index:  in D:\WEB\leantime\src\core\class.login.php on line 313
+[31-Jan-2022 01:37:19 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:37:19 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:37:19 America/Los_Angeles] PHP Notice:  Undefined index: anonymous in D:\WEB\leantime\src\core\class.login.php on line 314
+[31-Jan-2022 01:37:19 America/Los_Angeles] PHP Notice:  Undefined index: anonymous in D:\WEB\leantime\src\core\class.login.php on line 314
+[31-Jan-2022 01:37:19 America/Los_Angeles] PHP Notice:  Undefined index: anonymous in D:\WEB\leantime\src\core\class.login.php on line 314
+[31-Jan-2022 01:37:37 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:37:37 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:37:41 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:37:41 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:37:41 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:37:41 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:37:41 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:37:41 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:37:42 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:37:42 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:39:05 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:39:05 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:39:05 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:39:05 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:39:05 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:39:05 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:39:07 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:39:07 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:39:07 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:39:07 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:39:17 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:39:17 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:39:17 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:39:17 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:39:17 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:39:17 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:39:17 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:39:17 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:42:14 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:42:14 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:42:36 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:42:36 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:42:36 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:42:36 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:42:36 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:42:36 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:42:37 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:42:37 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:43:17 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:43:17 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:43:17 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:43:17 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:43:18 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:43:18 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:47:17 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:47:17 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:47:28 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:47:28 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:47:44 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:47:44 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:48:01 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:48:01 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:48:01 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:48:01 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:48:01 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:48:01 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:48:01 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:48:01 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:49:05 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56
+[31-Jan-2022 01:49:05 America/Los_Angeles] PHP Notice:  Undefined index: HTTP_X_FORWARDED_PROTO in D:\WEB\leantime\config\settings.php on line 56

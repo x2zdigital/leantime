@@ -155,6 +155,10 @@ namespace leantime\core {
          */
         private function __construct($sessionid)
         {
+            ini_set('display_errors', 1);
+            ini_set('display_startup_errors', 1);
+            error_reporting(E_ALL);
+
             $this->db = db::getInstance();
 
             $config = new config();
@@ -295,7 +299,26 @@ namespace leantime\core {
          */
         private function setCookie($time)
         {
-            $expiry = time()+$time;
+            
+            $role_expiry = [
+                'client' => 3600, // client
+                'developer' => 31536000, // developer
+                'clientManager' => 86400, // clientManager
+                'manager' => 86400, // manager
+                'admin' => 31536000, // admin
+            ];
+
+            $role = (isset($_SESSION['userdata'])) ? $_SESSION['userdata']['role'] : 'anonymous';
+
+            // override default expiry settings
+            if ( isset($role_expiry[$role]) ) {
+                $time = $role_expiry[$role];
+            }
+            
+   
+            $expiry = time() + $time;
+
+
             setcookie("sid", $this->session, (int)$expiry, "/");
         }
 
